@@ -23,6 +23,7 @@
     <ClCompile Include="SVM_CS.cpp" />
     <ClCompile Include="testcpp.cpp" />
     <ClCompile Include="waveLetTest.cpp" />
+    <ClCompile Include="车牌识别.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{02647B33-FA1F-41D7-8735-84D59262BCBC}</ProjectGuid>

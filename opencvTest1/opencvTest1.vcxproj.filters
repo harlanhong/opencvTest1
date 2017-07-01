@@ -27,5 +27,8 @@
     <ClCompile Include="testcpp.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="车牌识别.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
